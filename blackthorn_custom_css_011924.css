@@ -4,8 +4,15 @@ div.floating-label.lt-desktop.ng-star-inserted {
 	background-color: #cac7a7;
 }
 
-div.order-summary-card.ng-star-inserted{
+/* div.order-summary-card.ng-star-inserted{
 position: absolute;
 bottom: 7.3rem;
 width: 300px;
-}  
+}   */
+
+.mat-focus-indicator.action-button.mat-raised-button.mat-button-base.mat-primary.ng-tns-c223-28.ng-star-inserted {
+	bottom: 0;
+	position: absolute;
+	left: 0;
+	right: 0;
+}
