@@ -6,8 +6,8 @@ div.floating-label.lt-desktop.ng-star-inserted {
 
 div.order-summary-card.ng-star-inserted{
 position: absolute;
-bottom: -120rem;
-width: 30px;
+bottom: 7.3rem;
+width: 30px !important;
 } 
 
 /* .mat-focus-indicator.action-button.mat-raised-button.mat-button-base.mat-primary.ng-tns-c223-28.ng-star-inserted {
