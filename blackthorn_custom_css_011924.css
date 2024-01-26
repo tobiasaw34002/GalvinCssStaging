@@ -4,7 +4,7 @@ div.floating-label.lt-desktop.ng-star-inserted {
 	background-color: #cac7a7;
 }
 
-div[class|='bt-card']{
+div.order-summary-card.ng-star-inserted{
 position: absolute;
 bottom: -120rem;
 width: 30px;
