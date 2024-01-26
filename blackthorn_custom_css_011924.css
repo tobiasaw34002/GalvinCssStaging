@@ -5,13 +5,10 @@ div.floating-label.lt-desktop.ng-star-inserted {
 }
 
 div.order-summary-card.ng-star-inserted{
-position: absolute;
-bottom: 7.3rem;
-width: 30px !important;
+	position: absolute;
+	bottom: 7.3rem;
+	width: 300px;
 } 
-div{
-	background-color:red;
-}
 
 /* .mat-focus-indicator.action-button.mat-raised-button.mat-button-base.mat-primary.ng-tns-c223-28.ng-star-inserted {
 	bottom: 0;
