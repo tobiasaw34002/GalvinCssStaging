@@ -1,20 +1,9 @@
 /* override the default bright red color */
 div.floating-label.desktop.ng-star-inserted,
 div.floating-label.lt-desktop.ng-star-inserted {
-	background-color: #cac7a7;
+	background-color: #CAC7A7;
 }
-
-/* div.order-summary-card.ng-star-inserted{
-	position: absolute;
-	bottom: -103.4rem;
-	width: 300px;
-}  */
-/*
-.ng-tns-c223-28.ng-star-inserted
-*/
-.mat-focus-indicator.action-button.mat-raised-button.mat-button-base.mat-primary {
-	bottom: 0;
-	position: fixed;
-	left: 0;
-	right: 0;
+.tickets-content {
+ display: flex;
+ flex-direction: column-reverse;
 }
