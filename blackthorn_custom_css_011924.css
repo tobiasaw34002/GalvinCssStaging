@@ -14,3 +14,7 @@ div.floating-label.lt-desktop.ng-star-inserted {
 	left: 0;
 	right: 0;
 }
+
+.mat-focus-indicator.add-self-button.mat-stroked-button.mat-button-base.ng-star-inserted {
+	display: none;
+}
