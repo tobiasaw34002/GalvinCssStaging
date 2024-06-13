@@ -5,3 +5,11 @@ display: none;
 .mat-focus-indicator.back-button.mat-icon-button.mat-button-base {
 display: none;
 }
+
+.event__dateTime.ng-star-inserted {
+display: none;
+}
+
+.event-price.ng-star-inserted {
+display: none;
+}
