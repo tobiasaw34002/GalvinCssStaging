@@ -1,9 +1,9 @@
 .material-icons {
-display: none;
+display: none !important;
 }
 
 .mat-focus-indicator.back-button.mat-icon-button.mat-button-base {
-display: none;
+display: none !important;
 }
 
 .event__dateTime.ng-star-inserted {
